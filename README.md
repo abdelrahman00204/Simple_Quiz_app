@@ -15,7 +15,6 @@ A clean and interactive Quiz Application built with Flutter. This app is designe
 | Start Screen | Quiz Interface | Results Screen |
 | :---: | :---: | :---: |
 | ![Start](https://via.placeholder.com/200x400?text=Start+Screen) | ![Quiz](https://via.placeholder.com/200x400?text=Quiz+UI) | ![Results](https://via.placeholder.com/200x400?text=Results+UI) |
-*(Replace these placeholders with your actual screenshots located in your assets folder)*
 
 ## 🛠 Tech Stack
 
